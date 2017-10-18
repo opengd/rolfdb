@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolfDb", "rolfdb\RolfDb.csproj", "{B8DCEFA4-6AB7-4AF5-97F8-58CF3B03A911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RolfDbExample", "rolfdbExample\RolfDbExample.csproj", "{ACDBF66A-A48D-448A-A739-9EF2D1A59B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDBF66A-A48D-448A-A739-9EF2D1A59B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDBF66A-A48D-448A-A739-9EF2D1A59B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDBF66A-A48D-448A-A739-9EF2D1A59B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDBF66A-A48D-448A-A739-9EF2D1A59B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DCEFA4-6AB7-4AF5-97F8-58CF3B03A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DCEFA4-6AB7-4AF5-97F8-58CF3B03A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DCEFA4-6AB7-4AF5-97F8-58CF3B03A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DCEFA4-6AB7-4AF5-97F8-58CF3B03A911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = rolfdb\RolfDb.csproj
+	EndGlobalSection
+EndGlobal
